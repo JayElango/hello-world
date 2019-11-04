@@ -1,2 +1,3 @@
 # hello-world
-Getting started with repositories
+Hi Jaya here 
+This is my first hands-on with GitHub
